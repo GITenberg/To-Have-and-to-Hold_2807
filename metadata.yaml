@@ -1,0 +1,29 @@
+_repo: To-Have-and-to-Hold_2807
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnston, Mary
+    birthdate: 1870
+    deathdate: 1936
+    gutenberg_agent_id: '695'
+    url: http://www.gutenberg.org/2009/agents/695
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Johnston
+description: Jocelyn, the King's ward, escapes England in a bride-ship bound for the
+  colonies and for her own reasons marries a planter who has decided--on a throw of
+  dice--to come to Jamestown for the arrival of the brides. Their uncertain path is
+  complicated by the arrival of the powerful suitor Jocelyn hoped to escape.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: To Have and to Hold
+url: http://www.gutenberg.org/ebooks/2807
