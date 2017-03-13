@@ -1,5 +1,8 @@
 _repo: To-Have-and-to-Hold_2807
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Johnston, Mary
@@ -12,6 +15,8 @@ description: Jocelyn, the King's ward, escapes England in a bride-ship bound for
   colonies and for her own reasons marries a planter who has decided--on a throw of
   dice--to come to Jamestown for the arrival of the brides. Their uncertain path is
   complicated by the arrival of the powerful suitor Jocelyn hoped to escape.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2807#To-Have-and-to-Hold
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2001-09-01'
 gutenberg_type: Text
